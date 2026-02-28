@@ -1,0 +1,9 @@
+# analise_acoes_predicao
+# analise_acoes_predicao
+# analise_acoes_predicao
+# analise-acao
+# analise-acao
+# analise-acao
+# analise-acao
+# acoes-predict
+# acoes-predict
