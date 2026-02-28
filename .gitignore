@@ -1,0 +1,98 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Keys and security
+# =========================
+*.pem
+*.key
+*.crt
+*.p12
+
+# =========================
+# Data and cache
+# =========================
+cache_csv/
+data/
+datasets/
+
+# =========================
+# Outputs and models
+# =========================
+outputs/
+models/
+*.pkl
+*.joblib
+*.h5
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Build and dist
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Testing
+# =========================
+.coverage
+.pytest_cache/
+
+# =========================
+# TensorFlow / ML
+# =========================
+tensorboard_logs/
+wandb/
+
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
+
+# =========================
+# Node (se usar front)
+# =========================
+node_modules/
+
+acao.pem

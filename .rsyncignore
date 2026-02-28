@@ -1,0 +1,38 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+
+# Cache local do projeto
+cache_csv/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outros
+node_modules/
+analise_acoes.ipynb
+acao.pem
+cache_csv/
+outputs/
+venv/
+2.0
+.venvv/
